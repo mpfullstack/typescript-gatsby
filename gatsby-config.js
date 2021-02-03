@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Typescript",
+    title: "Typescript Gatsby",
     description: "A default repo to use gatsby and typescript",
     keywords: "",
     author: {
@@ -22,5 +22,6 @@ module.exports = {
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-testing",
   ],
 };
